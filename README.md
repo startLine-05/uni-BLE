@@ -33,5 +33,6 @@
 * 关闭蓝牙
 
 #### 四：参考资料
-[小程序蓝牙BLE调试工具上线了](https://github.com/RAOE/BlueToothTool)
-[聊聊JS的二进制家族 Blob、ArrayBuffer和Buffer](https://zhuanlan.zhihu.com/p/97768916)
+* [小程序蓝牙BLE调试工具上线了](https://github.com/RAOE/BlueToothTool)
+
+* [聊聊JS的二进制家族 Blob、ArrayBuffer和Buffer](https://zhuanlan.zhihu.com/p/97768916)
